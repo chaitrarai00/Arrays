@@ -1,7 +1,7 @@
 package arrays.sort012withoutsortmethods;
 
 import java.util.Scanner;
-
+//Time complexitty O(n)
 public class DutchFlagMethod {
 	public static int[] rearrange(int[] array,int n) {
 		int temp,low=0,mid=0,high=n-1;//first part 0 being low to mid

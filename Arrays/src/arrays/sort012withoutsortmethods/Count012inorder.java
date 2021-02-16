@@ -1,7 +1,7 @@
 package arrays.sort012withoutsortmethods;
 
 import java.util.Scanner;
-
+// Time complexitty O(n)
 public class Count012inorder {
 
 	public static int[] rearrange(int[] array,int n) {
